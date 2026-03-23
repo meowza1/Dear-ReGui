@@ -1,6 +1,6 @@
 --// Libraries
 local IDEModule = loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/lib/ide.lua"))()
-local ReGui = loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()
+local ReGui = loadstring(game:HttpGet('https://raw.githubusercontent.com/Jsssiee/Dear-ReGui/refs/heads/main/lib/ide.lua'))()
 
 --// IDE
 local IDE = IDEModule.CodeFrame.new({
