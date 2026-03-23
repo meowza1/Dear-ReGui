@@ -6,7 +6,7 @@ This is perfect for beginners and performance.
 > Documentation: https://depso.gitbook.io/regui
 
 ## Notices
-- For suggestions or questions, please visit the [discussions page](https://github.com/depthso/Dear-ReGui/discussions)
+- For suggestions or questions, please visit the [discussions page](https://github.com/Jsssiee/Dear-ReGui/discussions)
 - If you would like to fork this, please read the [Forking](#forking) section
 - Technical documentation and addional infomation such as commonly asked questions can be found on the [Gitbook documentation](https://depso.gitbook.io/regui)
 
@@ -14,7 +14,7 @@ This is perfect for beginners and performance.
 The best way to learn ReGUI is to look through the Demo window which comes bundled with ReGUI.
 The demo window is updated every significant update such as an addition of an element or a flag has been renamed.
 
-> https://github.com/depthso/Dear-ReGui/blob/main/src/Demo%20window.lua
+> https://github.com/Jsssiee/Dear-ReGui/blob/main/src/Demo%20window.lua
 
 ## Usage
 ReGui can be used on any GUI type you want such as CoreGui, PlayerGui, BillboardGui, PluginGui, and SurfaceGui.

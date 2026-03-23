@@ -25,6 +25,6 @@ local Help = TitleCanvas:RadioButton({
 })
 ReGui:SetItemTooltip(Help, function(Canvas)
 	Canvas:Label({
-		Text = "Check github.com/depthso/Dear-ReGui/"
+		Text = "Check github.com/Jsssiee/Dear-ReGui/"
 	})
 end)
