@@ -8,7 +8,7 @@
     Written by depso
     MIT License
     
-    https://github.com/depthso
+    https://github.com/Jsssiee
 ]]
 
 local ReGui = {
